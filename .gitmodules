@@ -1,0 +1,9 @@
+[submodule "2020"]
+	path = 2020
+	url = git@github.com:foderking/Advent-of-code-solutions.git
+[submodule "2021"]
+	path = 2021
+	url = git@github.com:foderking/advent-of-code-2021_nim.git
+[submodule "2015"]
+	path = 2015
+	url = git@github.com:foderking/advent-of-code-2015_nim.git
