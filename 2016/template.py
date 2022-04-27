@@ -1,5 +1,6 @@
 #!/usr/bin/pypy3
 from download import getInput
+day = <number>
 
 def part1(inpt):
     print(inpt)
